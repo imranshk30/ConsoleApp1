@@ -34,7 +34,7 @@ string[] family = { "imran sheikh","farah","hamzah" , "shanza" };
 
 foreach (var str in family)
 {
-    if (str == "imran sheikh")
+    if (str == "imran sheikhxdfgdfdfgsdfgsdgf")
     {
         Console.WriteLine(" good father");
         
