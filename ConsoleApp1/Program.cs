@@ -30,11 +30,11 @@
 
 
 //while (i < 11);
-string[] family = { "imran sheikh","farah","hamzah" , "shanza" };
+string[] family = { "imran","farah","hamzah" , "shanza" };
 
 foreach (var str in family)
 {
-    if (str == "imran sheikhxdfgdfdfgsdfgsdgf")
+    if (str == "imran")
     {
         Console.WriteLine(" good father");
         
