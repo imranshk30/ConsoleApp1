@@ -36,7 +36,7 @@ foreach (var str in family)
 {
     if (str == "imran sheikh")
     {
-        Console.WriteLine("father");
+        Console.WriteLine(" bad father");
         
     }
     if(str == "farah")
